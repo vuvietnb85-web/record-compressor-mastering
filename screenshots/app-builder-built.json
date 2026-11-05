@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "THU VÀNG",
+      "hasCanvas": false,
+      "bodyTextLen": 527,
+      "bodyTextHash": "c3449f143bb2d5107203e4c4ab9d040bdaa5d7ce6bb68fd4fccb5dcc910799a1",
+      "bodyTextPrefix": "PHÒNG THU THU VÀNG Sạch · Phóng thanh · Quảng cáo P1 Ghi âm đa n",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "THU VÀNG",
+      "hasCanvas": false,
+      "bodyTextLen": 527,
+      "bodyTextHash": "c3449f143bb2d5107203e4c4ab9d040bdaa5d7ce6bb68fd4fccb5dcc910799a1",
+      "bodyTextPrefix": "PHÒNG THU THU VÀNG Sạch · Phóng thanh · Quảng cáo P1 Ghi âm đa n",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

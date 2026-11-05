@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Thu Vàng">
+  <rect width="32" height="32" rx="6" fill="#030c18"/>
+  <rect x="3" y="3" width="26" height="26" rx="4" fill="#0c2746"/>
+  <rect x="5.5" y="7" width="5" height="18" rx="1.2" fill="#e8b00f"/>
+  <rect x="12.5" y="12" width="5" height="13" rx="1.2" fill="#e7eef6"/>
+  <rect x="19.5" y="6.5" width="8" height="8" rx="1.6" fill="#d0892b"/>
+</svg>
